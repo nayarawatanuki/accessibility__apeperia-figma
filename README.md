@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Apeperia" src="https://raw.githubusercontent.com/nayarawatanuki/accessibility__apeperia-figma/main/img/readme/accessibility__cover.png"/>
+  <img alt="Apeperia" src="https://raw.githubusercontent.com/nayarawatanuki/accessibility__apeperia-figma/main/img/readme/accessibility__cover.png#vitrinedev"/>
 </h1>
 
 ### Índice
@@ -17,7 +17,7 @@
 ## :pencil: Descrição do Projeto
 O projeto **[Apeperia](https://www.figma.com/community/file/1197424445007822183)**, é uma proposta de página web para uma plataforma que fornece construção e manutenção de aplicativos.
 
-</br>Desenvolvido para o curso de **ACESSIBILIDADE WEB: CRIE DESIGNS INCLUSIVOS** da platforma [Alura](https://www.alura.com.br/).
+</br>Desenvolvido para o curso de **ACESSIBILIDADE WEB: CRIE DESIGNS INCLUSIVOS** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
